@@ -1,0 +1,91 @@
+[
+    {
+        "name" : "Black Granite",
+        "price": 1400,
+        "Category": "Granite",
+        "property_type": ["Commercial"],
+        "city": ["Bhopal"],
+        "image": "./Images/blackgranite"
+    },
+    {
+        "name": "Black Marble",
+        "price": "1500",
+        "Category": "Marble",
+        "property_type": ["Residential"],
+        "city":["Ujjain"],
+        "image": "./Images/blackmarble"
+    },
+    {
+        "name": "Carving",
+        "price": "1600",
+        "Category": "Art & Craft",
+        "property_type": ["Residential"],
+        "city":["Ujjain"],
+        "image": "./Images/carving"
+    },
+    {
+        "name": "Colored Marble",
+        "price": "1500",
+        "Category": "Marble",
+        "property_type": ["Residential" , "Commercial"],
+        "city":["Indore"],
+        "image": "./Images/coloredmarble"
+    },
+    {
+        "name": "Flooring",
+        "price": "1500",
+        "Category": "Art & Craft",
+        "property_type": ["Residential" , "Commercial"],
+        "city":["Indore"],
+        "image": "./Images/flooring"
+    },
+    {
+        "name": "Imported Marble",
+        "price": "1500",
+        "Category": "Marble",
+        "property_type": ["Residential", "Commercial"],
+        "city":["Nimach"],
+        "image": "./Images/importedmarble"
+    },
+    {
+        "name": "Kitchen",
+        "price": "2000",
+        "Category": "Arts & Craft",
+        "property_type": ["Residential"],
+        "city":["Indore"],
+        "image": "./Images/kitchen"
+    },
+    {
+        "name": "Makrana Marble",
+        "price": "1400",
+        "Category": "Marble",
+        "property_type": ["Residential"],
+        "city":["Ujjain"],
+        "image": "./Images/makranamarble"
+    },
+    {
+        "name": "Marble Tiles",
+        "price": "1200",
+        "Category": "Granite",
+        "property_type": ["Residential"],
+        "city":["jaipur"],
+        "image": "./Images/marbletiles"
+    },
+    {
+        "name": "Red Granite",
+        "price": "1800",
+        "Category": "Granite",
+        "property_type": ["Residential" , "Commercial"],
+        "city":["Bhopal"],
+        "image": "./Images/redgranite"
+    },
+    {
+        "name": "White Granite",
+        "price": "2200",
+        "Category": "Granite",
+        "property_type": ["Residential"],
+        "city":["Bhopal"],
+        "image": "./Images/whitegranite"
+    }
+
+]
