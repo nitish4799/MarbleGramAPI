@@ -1,5 +1,6 @@
 [
     {
+        "id": "blackgranite",
         "name" : "Black Granite",
         "price": 1400,
         "Category": "Granite",
@@ -8,6 +9,7 @@
         "image": "./Images/blackgranite"
     },
     {
+        "id" : "blackmarble",
         "name": "Black Marble",
         "price": "1500",
         "Category": "Marble",
@@ -16,6 +18,7 @@
         "image": "./Images/blackmarble"
     },
     {
+        "id" : "carving",
         "name": "Carving",
         "price": "1600",
         "Category": "Art & Craft",
@@ -24,6 +27,7 @@
         "image": "./Images/carving"
     },
     {
+        "id" : "coloredmarble",
         "name": "Colored Marble",
         "price": "1500",
         "Category": "Marble",
@@ -32,6 +36,7 @@
         "image": "./Images/coloredmarble"
     },
     {
+        "id" : "flooring",
         "name": "Flooring",
         "price": "1500",
         "Category": "Art & Craft",
@@ -40,6 +45,7 @@
         "image": "./Images/flooring"
     },
     {
+        "id" : "importedmarble",
         "name": "Imported Marble",
         "price": "1500",
         "Category": "Marble",
@@ -48,6 +54,7 @@
         "image": "./Images/importedmarble"
     },
     {
+        "id" : "kitchen",
         "name": "Kitchen",
         "price": "2000",
         "Category": "Arts & Craft",
@@ -56,6 +63,7 @@
         "image": "./Images/kitchen"
     },
     {
+        "id": "makranamarble",
         "name": "Makrana Marble",
         "price": "1400",
         "Category": "Marble",
@@ -64,6 +72,7 @@
         "image": "./Images/makranamarble"
     },
     {
+        "id": "marbletiles",
         "name": "Marble Tiles",
         "price": "1200",
         "Category": "Granite",
@@ -72,6 +81,7 @@
         "image": "./Images/marbletiles"
     },
     {
+        "id": "redgranite",
         "name": "Red Granite",
         "price": "1800",
         "Category": "Granite",
@@ -80,6 +90,7 @@
         "image": "./Images/redgranite"
     },
     {
+        "id": "whitegranite",
         "name": "White Granite",
         "price": "2200",
         "Category": "Granite",
