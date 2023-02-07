@@ -10,6 +10,11 @@ app.get("/" , (req , res) =>{
     res.send("Hi, I am live");
 });
 
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', 'http://localhost:3000');
+    next();
+  });
+
 app.use("/api/products" , products_routes);
 
 connectDB(process.env.MONGODB_URL);

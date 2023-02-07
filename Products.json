@@ -1,6 +1,5 @@
 [
     {
-        "id": "blackgranite",
         "name" : "Black Granite",
         "price": 1400,
         "Category": "Granite",
@@ -9,7 +8,6 @@
         "image": "https://images.unsplash.com/photo-1550053808-52a75a05955d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
-        "id" : "blackmarble",
         "name": "Black Marble",
         "price": "1500",
         "Category": "Marble",
@@ -18,7 +16,6 @@
         "image": "https://i.pinimg.com/originals/82/dd/f3/82ddf3e69bcbbff8f215a308c05aaee7.jpg"
     },
     {
-        "id" : "carving",
         "name": "Carving",
         "price": "1600",
         "Category": "Art & Craft",
