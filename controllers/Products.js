@@ -25,7 +25,8 @@ const getAllProducts = async (req , res) =>{
     console.log(queryObject);
 
     const myData = await Product.find(queryObject);
-    res.status(200).json({myData});
+
+    res.status(200).json(myData);
     
     // const myData = await Product.find(req.query);
     // res.status(200).json({myData});
