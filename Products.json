@@ -6,7 +6,7 @@
         "Category": "Granite",
         "property_type": ["Commercial"],
         "city": ["Bhopal"],
-        "image": "./Images/blackgranite"
+        "image": "https://images.unsplash.com/photo-1550053808-52a75a05955d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
         "id" : "blackmarble",
@@ -15,7 +15,7 @@
         "Category": "Marble",
         "property_type": ["Residential"],
         "city":["Ujjain"],
-        "image": "./Images/blackmarble"
+        "image": "https://i.pinimg.com/originals/82/dd/f3/82ddf3e69bcbbff8f215a308c05aaee7.jpg"
     },
     {
         "id" : "carving",
@@ -24,7 +24,7 @@
         "Category": "Art & Craft",
         "property_type": ["Residential"],
         "city":["Ujjain"],
-        "image": "./Images/carving"
+        "image": "https://images.unsplash.com/photo-1598564254340-db47d3c10d91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80"
     },
     {
         "id" : "coloredmarble",
@@ -33,7 +33,7 @@
         "Category": "Marble",
         "property_type": ["Residential" , "Commercial"],
         "city":["Indore"],
-        "image": "./Images/coloredmarble"
+        "image": "https://images.unsplash.com/photo-1563219125-1db796e20ff2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
         "id" : "flooring",
@@ -42,7 +42,7 @@
         "Category": "Art & Craft",
         "property_type": ["Residential" , "Commercial"],
         "city":["Indore"],
-        "image": "./Images/flooring"
+        "image": "https://images.unsplash.com/photo-1571392737007-0e292d258e17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
     },
     {
         "id" : "importedmarble",
@@ -51,7 +51,7 @@
         "Category": "Marble",
         "property_type": ["Residential", "Commercial"],
         "city":["Nimach"],
-        "image": "./Images/importedmarble"
+        "image": "https://www.mirage.it/media/filer_public_thumbnails_optimized/filer_public/24/56/2456c7af-aae2-4f8c-b573-c6db6ef6ca21/mirage_grandilastre_bathroom_jw15.jpg__900x900_q85_subsampling-2.jpg"
     },
     {
         "id" : "kitchen",
@@ -60,7 +60,7 @@
         "Category": "Arts & Craft",
         "property_type": ["Residential"],
         "city":["Indore"],
-        "image": "./Images/kitchen"
+        "image": "https://cdn.trendir.com/wp-content/uploads/2016/09/marble-kitchen-island.jpg"
     },
     {
         "id": "makranamarble",
@@ -69,7 +69,7 @@
         "Category": "Marble",
         "property_type": ["Residential"],
         "city":["Ujjain"],
-        "image": "./Images/makranamarble"
+        "image": "https://images.unsplash.com/photo-1576698483491-8c43f0862543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=648&q=80"
     },
     {
         "id": "marbletiles",
@@ -78,7 +78,7 @@
         "Category": "Granite",
         "property_type": ["Residential"],
         "city":["jaipur"],
-        "image": "./Images/marbletiles"
+        "image": "https://images.unsplash.com/photo-1571781418606-70265b9cce90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
         "id": "redgranite",
@@ -87,7 +87,7 @@
         "Category": "Granite",
         "property_type": ["Residential" , "Commercial"],
         "city":["Bhopal"],
-        "image": "./Images/redgranite"
+        "image": "https://i.pinimg.com/originals/a0/be/9a/a0be9a5b89cf1f1007ef0d5c0fa8a121.jpg"
     },
     {
         "id": "whitegranite",
@@ -96,7 +96,7 @@
         "Category": "Granite",
         "property_type": ["Residential"],
         "city":["Bhopal"],
-        "image": "./Images/whitegranite"
+        "image": "https://i.pinimg.com/originals/b7/39/ab/b739ab7a15f42542b2927e79b63798db.jpg"
     }
 
 ]
