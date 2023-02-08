@@ -2,8 +2,8 @@ const Product = require("../models/Products")
 
 const getAllProducts = async (req , res) =>{
 
-    const {city , price , Category , property_type} = req.query;
-    // const {_id} = res.query;
+    const {pid, city , price , Category , property_type} = req.query;
+   
     const queryObject = {};
 
     if (city){
@@ -18,9 +18,10 @@ const getAllProducts = async (req , res) =>{
     if (property_type){
         queryObject.property_type = {$regex:property_type, $options:"i"};
     }
-    // if (_id){
-    //     queryObject._id = {$regex:_id, $options:"i"};
-    // }
+    if(pid){
+        queryObject.pid ={$regex:pid , $options:"i"};
+    }
+    
 
     console.log(queryObject);
 

@@ -1,5 +1,6 @@
 [
     {
+        "pid": "blackgranite",
         "name" : "Black Granite",
         "price": 1400,
         "Category": "Granite",
@@ -8,6 +9,7 @@
         "image": "https://images.unsplash.com/photo-1550053808-52a75a05955d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
+        "pid":"blackmarble",
         "name": "Black Marble",
         "price": "1500",
         "Category": "Marble",
@@ -16,6 +18,7 @@
         "image": "https://i.pinimg.com/originals/82/dd/f3/82ddf3e69bcbbff8f215a308c05aaee7.jpg"
     },
     {
+        "pid":"carving",
         "name": "Carving",
         "price": "1600",
         "Category": "Art & Craft",
@@ -24,7 +27,7 @@
         "image": "https://images.unsplash.com/photo-1598564254340-db47d3c10d91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80"
     },
     {
-        "id" : "coloredmarble",
+        "pid" : "coloredmarble",
         "name": "Colored Marble",
         "price": "1500",
         "Category": "Marble",
@@ -33,7 +36,7 @@
         "image": "https://images.unsplash.com/photo-1563219125-1db796e20ff2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
-        "id" : "flooring",
+        "pid" : "flooring",
         "name": "Flooring",
         "price": "1500",
         "Category": "Art & Craft",
@@ -42,7 +45,7 @@
         "image": "https://images.unsplash.com/photo-1571392737007-0e292d258e17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
     },
     {
-        "id" : "importedmarble",
+        "pid" : "importedmarble",
         "name": "Imported Marble",
         "price": "1500",
         "Category": "Marble",
@@ -51,7 +54,7 @@
         "image": "https://www.mirage.it/media/filer_public_thumbnails_optimized/filer_public/24/56/2456c7af-aae2-4f8c-b573-c6db6ef6ca21/mirage_grandilastre_bathroom_jw15.jpg__900x900_q85_subsampling-2.jpg"
     },
     {
-        "id" : "kitchen",
+        "pid" : "kitchen",
         "name": "Kitchen",
         "price": "2000",
         "Category": "Arts & Craft",
@@ -60,7 +63,7 @@
         "image": "https://cdn.trendir.com/wp-content/uploads/2016/09/marble-kitchen-island.jpg"
     },
     {
-        "id": "makranamarble",
+        "pid": "makranamarble",
         "name": "Makrana Marble",
         "price": "1400",
         "Category": "Marble",
@@ -69,7 +72,7 @@
         "image": "https://images.unsplash.com/photo-1576698483491-8c43f0862543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=648&q=80"
     },
     {
-        "id": "marbletiles",
+        "pid": "marbletiles",
         "name": "Marble Tiles",
         "price": "1200",
         "Category": "Granite",
@@ -78,7 +81,7 @@
         "image": "https://images.unsplash.com/photo-1571781418606-70265b9cce90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
-        "id": "redgranite",
+        "pid": "redgranite",
         "name": "Red Granite",
         "price": "1800",
         "Category": "Granite",
@@ -87,7 +90,7 @@
         "image": "https://i.pinimg.com/originals/a0/be/9a/a0be9a5b89cf1f1007ef0d5c0fa8a121.jpg"
     },
     {
-        "id": "whitegranite",
+        "pid": "whitegranite",
         "name": "White Granite",
         "price": "2200",
         "Category": "Granite",
