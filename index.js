@@ -6,7 +6,7 @@ const connectDB = require("./DB/Connect")
 const cors = require('cors')
 
 app.use(cors({
-    origin: '*',
+    origin: 'https://architectinsider.in',
     credentials: true,
 }));
 
