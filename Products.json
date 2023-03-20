@@ -5,7 +5,7 @@
         "price": 1400,
         "Category": "Granite",
         "property_type": ["Commercial"],
-        "city": ["Bhopal"],
+        "city": ["New Delhi"],
         "image": "https://images.unsplash.com/photo-1550053808-52a75a05955d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
@@ -14,7 +14,7 @@
         "price": "1500",
         "Category": "Marble",
         "property_type": ["Residential"],
-        "city":["Ujjain"],
+        "city":["Gurugram"],
         "image": "https://i.pinimg.com/originals/82/dd/f3/82ddf3e69bcbbff8f215a308c05aaee7.jpg"
     },
     {
@@ -23,7 +23,7 @@
         "price": "1600",
         "Category": "Art & Craft",
         "property_type": ["Residential"],
-        "city":["Ujjain"],
+        "city":["Noida"],
         "image": "https://images.unsplash.com/photo-1598564254340-db47d3c10d91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80"
     },
     {
@@ -32,7 +32,7 @@
         "price": "1500",
         "Category": "Marble",
         "property_type": ["Residential" , "Commercial"],
-        "city":["Indore"],
+        "city":["Kishangarh"],
         "image": "https://images.unsplash.com/photo-1563219125-1db796e20ff2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
@@ -41,7 +41,7 @@
         "price": "1500",
         "Category": "Art & Craft",
         "property_type": ["Residential" , "Commercial"],
-        "city":["Indore"],
+        "city":["Faridabad"],
         "image": "https://images.unsplash.com/photo-1571392737007-0e292d258e17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
     },
     {
@@ -50,16 +50,16 @@
         "price": "1500",
         "Category": "Marble",
         "property_type": ["Residential", "Commercial"],
-        "city":["Nimach"],
+        "city":["New Delhi"],
         "image": "https://www.mirage.it/media/filer_public_thumbnails_optimized/filer_public/24/56/2456c7af-aae2-4f8c-b573-c6db6ef6ca21/mirage_grandilastre_bathroom_jw15.jpg__900x900_q85_subsampling-2.jpg"
     },
     {
         "pid" : "kitchen",
         "name": "Kitchen",
         "price": "2000",
-        "Category": "Arts & Craft",
+        "Category": "Art & Craft",
         "property_type": ["Residential"],
-        "city":["Indore"],
+        "city":["Gurugram"],
         "image": "https://cdn.trendir.com/wp-content/uploads/2016/09/marble-kitchen-island.jpg"
     },
     {
@@ -68,7 +68,7 @@
         "price": "1400",
         "Category": "Marble",
         "property_type": ["Residential"],
-        "city":["Ujjain"],
+        "city":["Kishangarh"],
         "image": "https://images.unsplash.com/photo-1576698483491-8c43f0862543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=648&q=80"
     },
     {
@@ -77,7 +77,7 @@
         "price": "1200",
         "Category": "Granite",
         "property_type": ["Residential"],
-        "city":["jaipur"],
+        "city":["Noida"],
         "image": "https://images.unsplash.com/photo-1571781418606-70265b9cce90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
@@ -86,7 +86,7 @@
         "price": "1800",
         "Category": "Granite",
         "property_type": ["Residential" , "Commercial"],
-        "city":["Bhopal"],
+        "city":["Kishangarh"],
         "image": "https://i.pinimg.com/originals/a0/be/9a/a0be9a5b89cf1f1007ef0d5c0fa8a121.jpg"
     },
     {
@@ -95,8 +95,98 @@
         "price": "2200",
         "Category": "Granite",
         "property_type": ["Residential"],
-        "city":["Bhopal"],
+        "city":["Kishangarh"],
         "image": "https://i.pinimg.com/originals/b7/39/ab/b739ab7a15f42542b2927e79b63798db.jpg"
+    },
+    {
+        "pid": "Grey Floor",
+        "name": "Grey Floor",
+        "price": "1800",
+        "Category": "Wooden Floor",
+        "property_type": ["Commercial", "Residential"],
+        "city": "Gurugram",
+        "image": "https://images.unsplash.com/photo-1592007235328-81689f46da41?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "pid": "White Tiles",
+        "name": "White Tiles",
+        "price": "2000",
+        "Category": "Tiles",
+        "property_type": ["Commercial", "Residential"],
+        "city": "Kishangarh",
+        "image": "https://images.unsplash.com/photo-1502005097973-6a7082348e28?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "pid": "Pattern Tiles",
+        "name": "Pattern Tiles",
+        "price": "1600",
+        "Category": "Tiles",
+        "property_type": ["Commercial", "Residential"],
+        "city": "Noida",
+        "image": "https://images.unsplash.com/photo-1563219125-1db796e20ff2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "pid": "Bathroom Black Granite",
+        "name": "Bathroom Black Granite",
+        "price": "2400",
+        "Category": "Granite",
+        "property_type": ["Residential"],
+        "city": "Gurugram",
+        "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "pid": "Bathroom Cream Granite",
+        "name": "Bathroom Cream Granite",
+        "price": "2400",
+        "Category": "Granite",
+        "property_type": ["Residential"],
+        "city": "Kishangarh",
+        "image": "https://images.unsplash.com/photo-1603825491103-bd638b1873b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1888&q=80"
+    },
+    {
+        "pid": "Bathroom Pattern Granite",
+        "name": "Bathroom Pattern Granite",
+        "price": "1900",
+        "Category": "Granite",
+        "property_type": ["Residential"],
+        "city": "Kishangarh",
+        "image": "https://images.unsplash.com/photo-1610178167104-488495443e01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+        "pid": "Bathroom White Marble",
+        "name": "Bathroom White Marble",
+        "price": "2100",
+        "Category": "Marble",
+        "property_type": ["Residential"],
+        "city": "New Delhi",
+        "image": "https://images.unsplash.com/photo-1594873672629-61079318a5fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "pid": "Bathroom Tiles",
+        "name": "Bathroom Tiles",
+        "price": "1700",
+        "Category": "Tiles",
+        "property_type": ["Residential", "Commercial"],
+        "city": "Kishangarh",
+        "image": "https://images.unsplash.com/photo-1609280069904-ab36feb3f20c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80"
+    },
+    {
+        "pid": "Bathroom Marble",
+        "name": "Bathroom Marble",
+        "price": "1500",
+        "Category": "Marble",
+        "property_type": ["Residential", "Commercial"],
+        "city": "Kishangarh",
+        "image": "https://images.unsplash.com/photo-1592240989300-8673561d04b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "pid": "Bathroom Black Tiles",
+        "name": "Bathroom Black Tiles",
+        "price": "1950",
+        "Category": "Tiles",
+        "property_type": ["Residential", "Commercial"],
+        "city": "New Delhi",
+        "image": "https://images.unsplash.com/photo-1596194789619-e0ff3e3f310a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=674&q=80"
     }
 
 ]
